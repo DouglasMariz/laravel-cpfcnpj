@@ -1,15 +1,15 @@
-# cpfcnpj-laravel
+# laravel-cpfcnpj
 
 Validação de cpf, cnpj, cpfcnpj para laravel 5.*
 
 #### Instalação Composer
 ```
-$ composer require eltoninacio/cpfcnpj-laravel
+$ composer require douglasmariz/laravel-cpfcnpj
 ```
 ou
 ```
 "require": {
-    "eltoninacio/cpfcnpj-laravel": "2.0.*"
+    "douglasmariz/laravel-cpfcnpj": "dev-master"
 }
 ```
 ```
@@ -21,7 +21,7 @@ Registre o ServiceProvider no array ```providers``` dentro do arquivo ```config/
 ```php
 'providers' => [
 	// ...
-    EltonInacio\ValidadorCpfCnpj\CpfCnpjServiceProvider::class
+    DouglasMariz\ValidadorCpfCnpj\CpfCnpjServiceProvider::class
 ]
 ```
 #### Exemplo de uso
