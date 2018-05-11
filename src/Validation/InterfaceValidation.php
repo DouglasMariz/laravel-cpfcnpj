@@ -1,6 +1,6 @@
 <?php
 
-namespace EltonInacio\ValidadorCpfCnpj\Validation;
+namespace DouglasMariz\ValidadorCpfCnpj\Validation;
 
 
 interface InterfaceValidation

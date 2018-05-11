@@ -1,8 +1,8 @@
 <?php
 
-namespace EltonInacio\ValidadorCpfCnpj\Tests;
+namespace DouglasMariz\ValidadorCpfCnpj\Tests;
 
-use EltonInacio\ValidadorCpfCnpj\Validation\CpfCnpjValidation;
+use DouglasMariz\ValidadorCpfCnpj\Validation\CpfCnpjValidation;
 
 class CpfCnpjValidationTest extends \PHPUnit_Framework_TestCase 
 {

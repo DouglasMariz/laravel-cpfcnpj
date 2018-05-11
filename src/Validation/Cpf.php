@@ -1,8 +1,8 @@
 <?php
 
-namespace EltonInacio\ValidadorCpfCnpj\Validation;
+namespace DouglasMariz\ValidadorCpfCnpj\Validation;
 
-use EltonInacio\ValidadorCpfCnpj\Validation\InterfaceValidation;
+use DouglasMariz\ValidadorCpfCnpj\Validation\InterfaceValidation;
 
 class Cpf implements InterfaceValidation
 {

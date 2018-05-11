@@ -1,10 +1,10 @@
 <?php
 
-namespace EltonInacio\ValidadorCpfCnpj\Validation;
+namespace DouglasMariz\ValidadorCpfCnpj\Validation;
 
 use Illuminate\Validation\Validator as IlluminateValidator;
-use EltonInacio\ValidadorCpfCnpj\Validation\Cpf;
-use EltonInacio\ValidadorCpfCnpj\Validation\Cnpj;
+use DouglasMariz\ValidadorCpfCnpj\Validation\Cpf;
+use DouglasMariz\ValidadorCpfCnpj\Validation\Cnpj;
 
 class CpfCnpjValidation extends IlluminateValidator
 {
