@@ -1,12 +1,17 @@
 {
     "name": "douglasmariz/laravel-cpfcnpj",
+    "type": "library",
     "description": "Validação de cpf, cnpj, cpfcnpj para laravel 5.*",
+    "keywords": ["cpf", "cnjpj", "laravel", "validate"],
+    "homepage": "https://github.com/DouglasMariz/laravel-cpfcnpj",
     "license": "MIT",
-    "version": "2.0.0",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Douglas Mariz",
-            "email": "douglasmariz.developer@gmail.com"
+            "email": "douglasmariz.developer@gmail.com",
+            "homepage": "https://github.com/DouglasMariz",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "stable",
